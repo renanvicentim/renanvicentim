@@ -1,6 +1,6 @@
 Olá a todos :computer::zap:!
 
-Me chamo Renan Vicentim, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
+Me chamo Renan Vicentim, sou um Programador FullStack, atualmente estou aprendendo e criando projetos com:
 
 <br>
 
