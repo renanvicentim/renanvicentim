@@ -1,4 +1,12 @@
-Olá a todos :computer::zap:!
+<h1 align='center'>
+  Olá, sou o Kayke Fujinaka!
+  <br/>
+  Bem vindo a minha página :)
+</h1>
+
+<p align='center'>
+  Tech Lead e Full Stack
+</p> :computer::zap:!
 
 Me chamo Renan Vicentim, sou um Programador FullStack, atualmente estou aprendendo e criando projetos com:
 
