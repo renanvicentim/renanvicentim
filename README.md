@@ -1,14 +1,12 @@
 <h1 align='center'>
-  Olá, sou o Kayke Fujinaka!
+  Olá, sou o Renan Vicentim!
   <br/>
   Bem vindo a minha página :)
 </h1>
 
 <p align='center'>
-  Tech Lead e Full Stack
+  Desenvolvedor Full Stack
 </p> :computer::zap:!
-
-Me chamo Renan Vicentim, sou um Programador FullStack, atualmente estou aprendendo e criando projetos com:
 
 <br>
 
