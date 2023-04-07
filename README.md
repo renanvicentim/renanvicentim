@@ -8,16 +8,21 @@
   Desenvolvedor Full Stack
 </p> :computer::zap:!
 
-<br>
+### ⚡ Tecnologias:
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+Estas são algumas das tecnologias e ferramentas que utilizo:
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+- Front-End
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,tailwind,bootstrap,sass,materialui)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<br>
+- Back-End
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,docker,mongodb,mysql,postgres)](https://skillicons.dev)
+
+- Ferramentas e Plataformas
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,githubactions,gitlab,figma)](https://skillicons.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanvicentim)](https://github.com/anuraghazra/github-readme-stats)
 
