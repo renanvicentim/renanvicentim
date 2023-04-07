@@ -6,7 +6,29 @@
 
 <p align='center'>
   Desenvolvedor Full Stack
-</p> :computer::zap:!
+</p>
+
+### 🌻 Sobre mim:
+
+<p>
+  <em>
+    Tenho 18 anos, sou de São Paulo e atualmente estou trabalhando como um Tech Lead e Full Stack no Grupo GCB
+  </em>
+</p>
+
+- 🌱 Estudando e aprimorando meus conhecimentos em Next.js, NestJS, Typescript e Jest.
+- 🚀 Estudante do Devclub, Rocketseat, Full Cycle e Manguinho
+- 📫 Meu email: kaykealvesfujinaka@gmail.com
+
+### 📊 Metas 2023:
+
+- 📚 Não parar de buscar conhecimentos com pessoas e máterias de estudos
+
+- ⭐ Expandir e melhorar minhas habilidades como líder
+
+- 💙 Conhecer pessoas e lugares incríveis nesse ano e podendo fazer parte da história delas
+
+- 📋 Fazer um projeto pessoal que aplique todos os conhecimentos obtidos ao longo da minha jornada, além de implementar novas tecnologias
 
 ### ⚡ Tecnologias:
 
