@@ -22,9 +22,9 @@
 
 ### 📊 Metas 2023:
 
-- ✊ Aumentar o Networking e trocar conhecimentos.
+- ✊ Aumentar o Networking e trocar conhecimentos com outros profissionais da área
 
-- ⭐ Expandir e melhorar minhas habilidades como Full Stack, aprendendo as tecnologias: TypeScript, NextJS, React Native, Nest.js
+- ⭐ Expandir e melhorar minhas habilidades como Full Stack, aprendendo as tecnologias: TypeScript, NextJS, React Native, Nest.js.
 
 - 💙 Conhecer pessoas e lugares incríveis nesse ano e podendo fazer parte da história delas
 
@@ -52,7 +52,7 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 
 | Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=renanvicentim&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Fujinaka&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=renanvicentim&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renanvicentim&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
 
 💬 Quer me conhecer?
 
@@ -65,5 +65,3 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 </div>
 <br>
 <p>🧠 <span style="font-style:italic">"A aprendizagem é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende."</span></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanvicentim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
