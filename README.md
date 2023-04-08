@@ -46,8 +46,6 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=git,githubactions,gitlab,figma)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanvicentim)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 📈 Minhas Estatísticas
 
 | Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
