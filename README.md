@@ -12,7 +12,7 @@
 
 <p>
   <em>
-    Tenho 19 anos, sou de São Paulo e atualmente estou trabalhando como Desenvolvedor Full Stack Freelancer.
+    Tenho 20 anos, sou de São Paulo e atualmente estou trabalhando como Desenvolvedor Full Stack Freelancer.
   </em>
 </p>
 
